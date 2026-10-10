@@ -165,6 +165,18 @@
                     </div>
                 </div>
             </article>
+<article class="place-card">
+    <div class="place-image">
+        <img src="YOUR_IMAGE_URL" alt="Place Name">
+    </div>
+    <div class="place-info">
+        <h3>Place Name — Country 🌐</h3>
+        <p>Short description here.</p>
+        <div class="fun-fact">
+            <strong>💡 Fun Fact:</strong> Your amazing fact here!
+        </div>
+    </div>
+</article>
         </section>
     </main>
 
